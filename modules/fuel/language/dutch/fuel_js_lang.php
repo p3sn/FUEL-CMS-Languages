@@ -32,6 +32,7 @@ $lang['form_label_send_email_notification'] = 'Verstuur een wachtwoord-update pe
 $lang['error_importing_ajax'] = 'Fout bij het importeren van het \'view\'-bestand';
 
 $lang['viewpage_close'] = 'Sluiten';
+$lang['viewpage_new_window'] = 'Nieuw venster';
 
 $lang['rearrange_on'] = 'Je kan de volgorde veranderen door de rijen te slepen ten opzicht van elkaar.';
 
