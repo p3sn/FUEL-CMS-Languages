@@ -18,4 +18,4 @@ $lang['error_invalid_generic'] = 'Ongeldige waarde voor %1s';
 
 
 /* End of file model_lang.php */
-/* Location: ./modules/fuel/language/english/model_lang.php */
+/* Location: ./modules/fuel/language/dutch/model_lang.php */
