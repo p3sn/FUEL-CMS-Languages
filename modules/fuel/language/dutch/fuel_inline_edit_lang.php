@@ -18,4 +18,4 @@ $lang['inline_edit_logout_title'] = 'Afmelden van Fuel Admin';
 $lang['inline_edit_page_not_published'] = 'Deze pagina is niet gepubliceerd';
 
 /* End of file fuel_inline_edit_lang.php */
-/* Location: ./modules/fuel/language/english/fuel_inline_edit_lang.php */
+/* Location: ./modules/fuel/language/dutch/fuel_inline_edit_lang.php */
