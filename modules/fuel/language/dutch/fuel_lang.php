@@ -203,8 +203,7 @@ $lang['form_label_view'] = 'Bekijk';
 |--------------------------------------------------------------------------
 */
 $lang['navigation_instructions'] = 'Hier kun je de top menu-items van de pagina aanmaken en wijzigen.';
-$lang['navigation_import_instructions'] = 'Selecteer een navigatie-groep en upload hieronder een bestand. Het bestand moet de PHP Array variabele <strong>$nav</strong> 
-bevatten. Voor meer informatie, bekijk de <a href="http://www.getfuelcms.com/user_guide/modules/fuel/navigation" target="_blank">handleiding</a>.';
+$lang['navigation_import_instructions'] = 'Selecteer een navigatie-groep en upload hieronder een bestand. Het bestand moet de PHP Array variabele <strong>$nav</strong> bevatten. Voor meer informatie, bekijk de <a href="http://www.getfuelcms.com/user_guide/modules/fuel/navigation" target="_blank">handleiding</a>.';
 $lang['navigation_success_upload'] = 'De navigatie is succesvol ge-upload.';
 $lang['form_label_navigation_group'] = 'Navigatie groep';
 $lang['form_label_nav_key'] = 'Nav Key';
@@ -231,7 +230,6 @@ $lang['form_label_subfolder'] = 'Submap';
 $lang['form_label_overwrite'] = 'Overschrijven';
 $lang['form_label_create_thumb'] = 'Creeër thumbnail';
 $lang['form_label_maintain_ratio'] = 'Behoud verhoudingen';
-$lang['form_label_overwrite'] = 'Overschrijven';
 $lang['form_label_width'] = 'Breedte';
 $lang['form_label_height'] = 'Hoogte';
 $lang['form_label_master_dimension'] = 'Hoofd-lengte';
@@ -245,8 +243,7 @@ $lang['assets_comment_thumb'] = 'Creeër een thumbnail (kleine versie) van de af
 $lang['assets_comment_aspect_ratio'] = 'Behoud de verhoudingen van de afbeelding bij het verschalen.';
 $lang['assets_comment_width'] = 'Zal de breedte wijzigen naar de opgegeven breedte.';
 $lang['assets_comment_height'] = 'Zal de hoogte wijzigen naar de opgegeven hoogte.';
-$lang['assets_comment_master_dim'] = 'Geef de hoofd-lengte op voor het verschalen. Als de afbeelding niet optimaal verschaald kan worden, dan wordt deze instelling (breedte 
-of hoogte) aangehouden als uitgangspunt. "Auto" kiest automatisch de lengte, afhankelijk van de breedte of hoogte van een afbeelding..';
+$lang['assets_comment_master_dim'] = 'Geef de hoofd-lengte op voor het verschalen. Als de afbeelding niet optimaal verschaald kan worden, dan wordt deze instelling (breedte of hoogte) aangehouden als uitgangspunt. "Auto" kiest automatisch de lengte, afhankelijk van de breedte of hoogte van een afbeelding..';
 
 
 
